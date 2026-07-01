@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Nityansh ### AI & Data Science Undergraduate @ JECRC University 🔭
+# Hi 👋, I'm Nityansh CSE'29 (AI & DS) Undergrad
 
 🔭 Currently working on:<br> NagrikSahyog- Civic Management Platform<br><br>🤝 Looking to collaborate on:<br>AI/ML Projects, Open Source, Hackathons<br><br>🌱 Currently learning:<br>Data Structures & Algorithms<br>Web Development<br>Artificial Intelligence<br><br>💬 Ask me about:<br>C++, Git/GitHub, DSA, AI Tools<br><br>⚡ Fun fact:<br>I enjoy exploring space technologies and emerging AI technologies.
 
